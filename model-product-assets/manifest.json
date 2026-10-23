@@ -1,0 +1,75 @@
+{
+  "format": "model-product-assets-manifest-v1",
+  "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 1066,
+      "sha256": "162f484fd9d2899f2598b813f0a6450aa0290896221597aad24b046156e2f5d1"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 5181,
+      "sha256": "f4bfe06d8f22bdbb354d89f07d6ef71fb77db98fd072d7d6402222c62eb0a57c"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "bytes": 168,
+      "sha256": "7075c866ed0aa2db60d730b80bfd904de828d6c421e524ba12d34cd4d34ce625"
+    },
+    {
+      "path": "references/animation-workflow.md",
+      "bytes": 4519,
+      "sha256": "f0786d422b41446242821cb23c8112a0fda5960e4768ad920375740957823d95"
+    },
+    {
+      "path": "references/idea-guide.md",
+      "bytes": 1852,
+      "sha256": "ee57b228794892e2b8ce457db4cf18d41f4181f943ed119b640bfb3a126da073"
+    },
+    {
+      "path": "references/install-and-use.md",
+      "bytes": 6590,
+      "sha256": "903d2c385f572bbc875a68e1d19cc4e15de8257125b61c9fbbb27cd6e1c379d6"
+    },
+    {
+      "path": "references/iphone4-case.md",
+      "bytes": 6341,
+      "sha256": "c7677a4d21ca6db1a562d15f2fe4d48aae670dbb922a68188628006c2be69c0a"
+    },
+    {
+      "path": "references/iphone8-case.md",
+      "bytes": 2988,
+      "sha256": "7f8ff859c6eb682d5df6153dbe0791ecedc01684fe1838654bc6ddcb0aad6ba7"
+    },
+    {
+      "path": "references/license-and-third-party.md",
+      "bytes": 1408,
+      "sha256": "2eca65910312455e7af35edcca81907c885993e251b179852cb59159901dedd5"
+    },
+    {
+      "path": "references/model-workflow.md",
+      "bytes": 13189,
+      "sha256": "1d64c0b9868bc739deb4ccea4c3e5d6df0449d757f8c110ce241c8acfa327fa7"
+    },
+    {
+      "path": "references/precise-reference-reconstruction.md",
+      "bytes": 8934,
+      "sha256": "b41cc74c634ab0d93ba6153f6e953b5a66ae181863f6d370415fa93e835db6b5"
+    },
+    {
+      "path": "scripts/check_video.py",
+      "bytes": 4306,
+      "sha256": "476b7fe47137e3657f9404c7b7629931ba68a9600075ab0dd70de0c95edf3223"
+    },
+    {
+      "path": "scripts/frame_plan.py",
+      "bytes": 4853,
+      "sha256": "eef1e34b1cf8ac8d231f25853ca0c5d0b2a9ffcdc9c0a82f7224ccad53eaa3d6"
+    },
+    {
+      "path": "scripts/package_manifest.py",
+      "bytes": 2486,
+      "sha256": "bbb1da8373e1da0d91e315630594cc832393d9256c4d7165e0b76449910bab13"
+    }
+  ]
+}
