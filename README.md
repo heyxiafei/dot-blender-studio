@@ -41,7 +41,7 @@
 
 ## 如果你是人类用户：手动安装
 
-先打开上方仓库，使用 GitHub 的 Code → Download ZIP 获取主分支源码并解压；也可手动克隆该仓库。然后找到其中的 model-product-assets 文件夹，按下方对应宿主的方式复制。这里是源码获取方式，不表示已创建 GitHub Release 或已有独立 Release 附件；以仓库实际内容为准。
+先打开上方仓库，使用 GitHub 的 Code → Download ZIP 获取主分支源码并解压；也可手动克隆该仓库。然后找到其中的 model-product-assets 文件夹，按下方对应宿主的方式复制。这里获取的是 Skill／脚本源码；模型 ZIP 使用下方独立的模型预览 Release 入口下载。源码安装与模型下载适用各自的说明和许可。
 
 以下本地路径在 2026-10-23 核对当前官方文档；安装前备份同名旧 Skill，完整复制 `model-product-assets` 文件夹，不只复制一个 Markdown 文件，不同时装多个同名副本。
 
@@ -95,10 +95,24 @@ Claude Code 请把 `$model-product-assets` 换成 `/model-product-assets`。你�
 
 官方发布、公开可观看、标注来源、去掉 Logo 或用户满意，都不自动构成转载或商用许可。原片、音乐/人声、屏幕 UI、商标与外观素材分别核权利。比较版与自有重建的来源必须标清；不能把官方画面放到自己一侧，也不能承诺仅写“学习”就没有版权风险。
 
+## Apple 学习模型预览下载
+
+首批范围为 **4 个 ZIP 卷、38 个小包、45 个代表产品目录、443 个 GLB**，四卷文件合计 **249,130,099 bytes**。早期 iPhone 2007–SE3 卷尚未提供，后续补齐。
+
+本次核对了本地 ZIP 的 SHA-256、目录条目，以及内层 manifest 对应的 GLB 路径和字节大小。这些属于结构检查，未完成全量视觉验收，也无 1:1、制造或打印精度保证。
+
+- [模型预览 Release](https://github.com/heyxiafei/dot-blender-studio/releases/tag/models-preview-2026-10-23)
+- [按产品类别下载与 SHA-256 清单](models/INDEX.md)
+- [个人学习非商业模型条款](models/MODEL-TERMS.txt) · [第三方权利说明](models/THIRD-PARTY-NOTICE.txt)
+
+模型仅供个人下载学习及非商业练习，不允许商用、出售、收费分发或原版／修改版模型文件再分发。Skill／脚本的 MIT **不适用于这些模型**，也不授予 Apple 或其他第三方权利。未提供原始 BLEND、官方媒体、参考照片或字体二进制。
+
+随附模型条款及第三方说明中的预览集合处理记录是来源背景，不代表本次首批的数量；本次范围以 models/INDEX.md 和 release-index.json 为准。
+
 ## 开源许可
 
-本仓库自有的 Skill、脚本和文档采用 [MIT License](LICENSE)，Copyright (c) 2026 heyxiafei。可在遵守许可要求、保留版权与许可声明的前提下使用、修改、分发及商用。
+本仓库自有的 Skill、自写脚本及其代码文档采用 [MIT License](LICENSE)，Copyright (c) 2026 heyxiafei。可在遵守许可要求、保留版权与许可声明的前提下使用、修改、分发及商用。
 
 MIT 不覆盖 Apple 等第三方商标、产品外观、媒体、UI/贴图或另行许可的资源；请阅读 [许可与第三方资源说明](model-product-assets/references/license-and-third-party.md)。
 
-模型资源将按独立版本清单提供，未发布前无下载承诺。当前仓库的 Skill 源码不代表已经包含或开放了整套 Apple 模型。
+上述模型预览按独立模型条款提供，不属于 Skill／代码的 MIT 授权范围；模型附件的提供不代表开放了整套 Apple 模型或第三方权利。

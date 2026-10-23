@@ -13,8 +13,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 8848,
-      "sha256": "8081e66481b842b97ce25b8ca524003b1d7da99513acefe579582d3b1e1adc72"
+      "bytes": 10155,
+      "sha256": "d567cec436f5494d714a7222d8f9b9cea4756661d222f929b0d5245bd377df2f"
     },
     {
       "path": "VALIDATION.md",
@@ -95,6 +95,31 @@
       "path": "model-product-assets/scripts/package_manifest.py",
       "bytes": 2486,
       "sha256": "bbb1da8373e1da0d91e315630594cc832393d9256c4d7165e0b76449910bab13"
+    },
+    {
+      "path": "models/INDEX.md",
+      "bytes": 3427,
+      "sha256": "af2525d8715df4e21b781e62ecf76db14f622325285c068bc268e944e734bcb2"
+    },
+    {
+      "path": "models/MODEL-TERMS.txt",
+      "bytes": 6579,
+      "sha256": "8857386bccfdc4e106c01d006183ede9a973cf1ee5c3eddf56ee364146c2dde4"
+    },
+    {
+      "path": "models/SHA256SUMS",
+      "bytes": 762,
+      "sha256": "2037a8238c3b284a3de2e76929d6c4094d96f7050c5e24fda69d5b1dcbdf5731"
+    },
+    {
+      "path": "models/THIRD-PARTY-NOTICE.txt",
+      "bytes": 3433,
+      "sha256": "138d8ad46389e3985123d0e6774031bd848f0e17f76cd454cc9fec2a2e39d103"
+    },
+    {
+      "path": "models/release-index.json",
+      "bytes": 6583,
+      "sha256": "091ddc65ee79f3ba19ab5d8b1f1e43d2e2313b1461fa34cbe121a7b80606a799"
     }
   ]
 }
