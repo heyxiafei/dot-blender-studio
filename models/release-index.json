@@ -1,0 +1,158 @@
+{
+  "title": "Apple-inspired personal learning model previews",
+  "release_tag": "models-preview-2026-10-23",
+  "model_terms": "Personal Learning Non-Commercial Terms v1",
+  "scope": "Personal learning and non-commercial practice only; no commercial use or original/modified file redistribution.",
+  "batch_scope": "First batch: four ZIP volumes. The early iPhone 2007–SE3 volume is not provided yet and may be added later.",
+  "totals": {
+    "download_volumes": 4,
+    "nested_zip_packages": 38,
+    "product_directories": 45,
+    "glb_variants": 443,
+    "compressed_bytes": 249130099
+  },
+  "compressed_bytes_scope": "Sum of the four release ZIP volume sizes.",
+  "volumes": [
+    {
+      "file": "apple-learning-models-preview-iphone-02-12-16e.zip",
+      "bytes": 104361358,
+      "sha256": "692668cd2d8032b3f85f0c621dbf3d2ee03d9c29aed07fd0e54120a996f4ca94",
+      "zip_packages": 19,
+      "glb_variants": 288,
+      "nested_packages": [
+        "iphone-12-generated-variants-glb-candidate.zip",
+        "iphone-12-mini-generated-variants-glb-candidate.zip",
+        "iphone-12-pro-generated-variants-glb-candidate.zip",
+        "iphone-12-pro-max-generated-variants-glb-candidate.zip",
+        "iphone-13-6-color-generated-variants-glb-candidate.zip",
+        "iphone-13-mini-6-color-generated-variants-glb-candidate.zip",
+        "iphone-13-pro-5-color-generated-variants-glb-candidate.zip",
+        "iphone-13-pro-max-5-color-generated-variants-glb-candidate.zip",
+        "iphone-14-generated-finishes-glb-candidate.zip",
+        "iphone-14-plus-generated-finishes-glb-candidate.zip",
+        "iphone-14-pro-generated-finishes-glb-candidate.zip",
+        "iphone-14-pro-max-generated-finishes-glb-candidate.zip",
+        "iphone-15-generated-variants-glb-candidate.zip",
+        "iphone-15-plus-generated-variants-glb-candidate.zip",
+        "iphone-16-5-color-generated-variants-glb-candidate.zip",
+        "iphone-16-plus-5-color-generated-variants-glb-candidate.zip",
+        "iphone-16-pro-4-color-generated-variants-glb-candidate.zip",
+        "iphone-16-pro-max-4-color-generated-variants-glb-candidate.zip",
+        "iphone-16e-2-color-generated-variants-glb-candidate.zip"
+      ],
+      "product_directories": 19,
+      "product_directory_ids": [
+        "iphone-12",
+        "iphone-12-mini",
+        "iphone-12-pro",
+        "iphone-12-pro-max",
+        "iphone-13",
+        "iphone-13-mini",
+        "iphone-13-pro",
+        "iphone-13-pro-max",
+        "iphone-14",
+        "iphone-14-plus",
+        "iphone-14-pro",
+        "iphone-14-pro-max",
+        "iphone-15",
+        "iphone-15-plus",
+        "iphone-16",
+        "iphone-16-plus",
+        "iphone-16-pro",
+        "iphone-16-pro-max",
+        "iphone-16e"
+      ]
+    },
+    {
+      "file": "apple-learning-models-preview-ipad.zip",
+      "bytes": 26341625,
+      "sha256": "082275680d3fa2892246fc0d747a4b01443b9f36ba4d8f6dbb8044b5acddaf06",
+      "zip_packages": 7,
+      "glb_variants": 68,
+      "nested_packages": [
+        "ipad-1-wordmark-v2-generated-models-glb-candidate.zip",
+        "ipad-2-generated-models-glb-candidate.zip",
+        "ipad-3-generated-models-glb-candidate.zip",
+        "ipad-4-generated-models-glb-candidate.zip",
+        "ipad-air-v2-generated-models-glb-candidate.zip",
+        "ipad-mini-v2-generated-models-glb-candidate.zip",
+        "ipad-pro-11-inch-m4-v2-generated-models-glb-candidate.zip"
+      ],
+      "product_directories": 7,
+      "product_directory_ids": [
+        "ipad-1",
+        "ipad-2",
+        "ipad-3",
+        "ipad-4",
+        "ipad-air-1",
+        "ipad-mini-1",
+        "ipad-pro-11-m4"
+      ]
+    },
+    {
+      "file": "apple-learning-models-preview-mac.zip",
+      "bytes": 112248252,
+      "sha256": "919789e0ddc90ebeaf142fc13e674a93f1c5afede0f7044ff9f411a12ad7b41a",
+      "zip_packages": 6,
+      "glb_variants": 60,
+      "nested_packages": [
+        "apple-imac-24-m4-standard-stand-seven-finishes-v1-glb-candidate.zip",
+        "mac-mini-2005-2009-aluminum-white-glb-candidate.zip",
+        "mac-mini-2010-2014-exterior-assets-v1-glb-candidate.zip",
+        "mac-mini-2018-2023-space-gray-silver-glb-candidate.zip",
+        "mac-mini-2024-compact-representative-glb-candidate.zip",
+        "mac-studio-2023-m2-max-representative-glb-candidate.zip"
+      ],
+      "product_directories": 13,
+      "product_directory_ids": [
+        "imac-24-m4",
+        "mac-mini-2005",
+        "mac-mini-2006-representative",
+        "mac-mini-2009",
+        "mac-mini-2010",
+        "mac-mini-2011",
+        "mac-mini-2012",
+        "mac-mini-2014",
+        "mac-mini-2018-intel",
+        "mac-mini-2020-m1",
+        "mac-mini-2023-m2-family",
+        "mac-mini-2024-compact-representative",
+        "mac-studio-2023-m2-max-representative"
+      ]
+    },
+    {
+      "file": "apple-learning-models-preview-ipod.zip",
+      "bytes": 6178864,
+      "sha256": "fca402ab00d9bf4f8f5769d78ae4d98fb755342bcf5bec00d80f71275a46036d",
+      "zip_packages": 6,
+      "glb_variants": 27,
+      "nested_packages": [
+        "ipod-2001-scroll-wheel-glb-candidate.zip",
+        "ipod-2002-touch-wheel-glb-candidate.zip",
+        "ipod-2003-dock-connector-glb-candidate.zip",
+        "ipod-2004-2005-photo-color-glb-candidate.zip",
+        "ipod-2004-click-wheel-glb-candidate.zip",
+        "ipod-mini-2004-v2-glb-candidate.zip"
+      ],
+      "product_directories": 6,
+      "product_directory_ids": [
+        "ipod-1-2001",
+        "ipod-2-2002",
+        "ipod-3-2003",
+        "ipod-4-monochrome-2004",
+        "ipod-4-photo-color-2004-2005",
+        "ipod-mini-1-2004"
+      ]
+    }
+  ],
+  "verification_note": "Local ZIP SHA-256 hashes, archive entries, and GLB paths and byte sizes against nested manifests were checked. These structural checks are not visual acceptance.",
+  "collection_notice_scope": "The collection-processing history in the unchanged model terms and third-party notice is background information, not a statement of this first batch's counts.",
+  "exclusions": [
+    {
+      "source_archive": "ipod-2001-scroll-wheel.zip",
+      "filename": "ipod-2001-white-with-logo.glb",
+      "reason": "Source generator explicitly converts Nimbus Roman lettering to BRAND_iPod_wordmark mesh. The accompanying AGPL font exception expressly references PostScript/PDF, not GLB; applicability not established. Existing no-logo GLB remains included in the preview package."
+    }
+  ],
+  "notes": "Unofficial, not Apple CAD, no endorsement, not a complete catalogue. Third-party rights are not granted. No model MIT/CC license. See terms and notice."
+}

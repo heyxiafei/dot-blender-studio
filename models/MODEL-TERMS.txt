@@ -1,0 +1,45 @@
+Personal Learning Non-Commercial Terms v1
+个人学习非商业使用条款 v1
+版本日期 / Version date: 2026-10-23
+
+中文
+
+1. 适用范围与许可
+本条款仅适用于本包的模型资产，并且仅在发布者依法有权许可的自制模型部分范围内授予权限。允许自然人为本人学习及个人非商业练习下载、保存、使用模型，并在该范围内作个人练习所需的修改。请保留随附的本条款、来源信息及第三方权利说明。
+
+2. 不在许可范围内的行为
+不得出售模型或修改版、收费分发，或将其用于商业项目、商业委托、商业宣传、商品或服务等商业用途。本许可不授予原模型或修改版的转载、镜像、重新打包、转授权或再分发权限。需要这些或其他超出个人学习及非商业练习范围的用途，应另行获得相应权利人的许可。分享资源请引导至原始仓库页面，不要另行分发模型文件。
+
+3. 与代码许可分开
+仓库中明确标注为 MIT 的 Skill 或脚本，另依其所附 MIT 许可适用。代码许可不延伸至这些模型资产。本模型条款不是 MIT，也不是任何标准 Creative Commons（CC）许可。
+
+4. 第三方权利不转授
+Apple 的名称、商标、标识、产品外观、界面、壁纸，以及其他第三方的字体、图像或设计等权利，不因本条款而被授予或转让。带标识、去标识、转换成网格或移除贴图，均不代表已解决全部第三方权利问题。使用者仍需自行确认其具体用途是否需要额外许可。详见 THIRD-PARTY-NOTICE.txt。
+
+5. 非官方性质、模型限制与风险
+这些是独立生成、供学习参考的近似外观模型，并非 Apple 提供或认可的 CAD 或素材；与 Apple 无官方关联，也不代表其背书。模型不构成完整 Apple 产品目录，不保证 1:1 尺寸、制造精度、工程安全、打印可用性、适销性或对特定用途的适用性。不得将其当作生产制造或安全关键用途的权威依据。
+在适用法律允许的范围内，模型按现状提供，不作上述保证。下载、使用或修改前，请自行核验文件、准确性、适用性及相关权利。上述风险说明不排除或限制法律不允许排除或限制的责任；本自定义条款不附带法律有效性或免责效果的保证，也不构成法律意见或律师审核认证。
+
+6. 本批次的实际处理与未完成事项
+本预览集合中的 134 个 GLB 已移除其嵌入的 Apple 界面或壁纸像素，并改用中性、非自发光屏幕材质；这不等于清除了模型的其他第三方权利。涉及 Nimbus 字体轮廓的 2001 年 iPod 带品牌字样变体暂不纳入，保留原有无标识变体。未核实的原型组不纳入。未提供原始 BLEND 场景、参考照片、原始预览、视频、字体二进制或生成脚本。全量视觉准确性及适用性验收尚未完成，结构检查和抽样渲染不等于验收通过。
+
+English
+
+1. Scope and permission
+These terms apply only to the model assets in this package, and grant permission only for independently created portions for which the publisher is legally entitled to grant rights. An individual may download, keep, and use the models for their own learning and personal non-commercial practice, including modifications needed for that practice. Keep these terms, source information, and accompanying third-party notices.
+
+2. Uses not permitted
+You may not sell the models or modified versions, distribute them for a fee, or use them in commercial projects, commissioned commercial work, commercial promotion, commercial products or services, or other commercial activities. This permission does not grant rights to repost, mirror, repackage, sublicense, or redistribute original or modified model files. Such uses, and other uses beyond personal learning and non-commercial practice, require separate permission from the relevant rights holders. To share the resource, link to the original repository page rather than distributing model files yourself.
+
+3. Separate code licensing
+Skills or scripts explicitly marked MIT in the repository are separately governed by their accompanying MIT license. A code license does not extend to these model assets. These model terms are not MIT and are not a standard Creative Commons (CC) license.
+
+4. No grant of third-party rights
+These terms do not grant or transfer rights in Apple's names, trademarks, logos, product appearance, interfaces, or wallpapers, or in third-party fonts, images, designs, or other protected material. Logo-present variants, logo-omitted variants, mesh conversion, and texture removal do not establish that all third-party rights have been resolved. You remain responsible for checking whether your particular use needs additional permission. See THIRD-PARTY-NOTICE.txt.
+
+5. Unofficial nature, limitations, and risk
+These are independently generated, approximate exterior models for learning and reference, not CAD or assets supplied or approved by Apple. No official affiliation or endorsement is claimed. They are not a complete Apple product catalogue. No guarantee is made of 1:1 dimensions, manufacturing accuracy, engineering safety, printability, merchantability, or fitness for a particular purpose. Do not treat them as authoritative inputs for manufacturing or safety-critical work.
+To the extent permitted by applicable law, the models are provided as is, without the foregoing warranties. Before downloading, using, or modifying them, check file integrity, accuracy, suitability, and relevant rights. These risk notices do not exclude or limit liability that cannot lawfully be excluded or limited. No guarantee is made of these custom terms' legal effectiveness or of any disclaimer's effect; they are not legal advice or a certification of lawyer review.
+
+6. Actual processing and remaining limitations
+Across this preview collection, 134 GLBs had embedded Apple interface or wallpaper pixels removed and their screen materials replaced with neutral, non-emissive surfaces. This does not clear other third-party rights in the models. The branded 2001 iPod variant containing Nimbus-derived font outlines is held back; its existing logo-omitted variant remains included. Unverified prototype groups are excluded. Original BLEND scenes, reference photos, original previews, video, font binaries, and generator scripts are not supplied. Full visual accuracy and fitness acceptance remains incomplete; structural checks and sample renders are not full acceptance.

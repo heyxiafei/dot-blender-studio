@@ -1,0 +1,17 @@
+THIRD-PARTY RIGHTS NOTICE / 第三方权利说明
+
+本包为独立生成的近似外观学习模型，不是 Apple 官方 CAD 或素材，与 Apple 无官方关联或背书。产品名称、商标、标识、产品外观及其他第三方权利仍归相应权利人。MODEL-TERMS.txt 仅在发布者依法有权许可的自制模型部分范围内许可个人学习及非商业练习，不转授任何 Apple 或其他第三方权利，不授予商业使用权限。
+
+本集合 134 个 GLB 中的嵌入式 Apple 界面/壁纸图像已从二进制数据中移除，相关屏幕材质替换为中性表面。没有随包提供下载的参考照片、Apple 原始媒体、BLEND 场景、原始预览、生成脚本或字体二进制。原有几何、文字网格及标识几何可能保留；去标识或转网格不等于清除了全部权利问题。
+
+部分文字网格源自 DejaVu 或 Liberation 等字体。按源生成器中实际发现的字体名称附带了相应来源许可说明；这些说明只用于字体来源记录，不能替代模型条款或证明模型整体已获许可。2001 年 iPod 带品牌字样的变体因 Nimbus 字体轮廓的 GLB 再分发依据尚未确认而暂不纳入；现有无标识变体保留。原字体许可中提到的 PostScript/PDF 例外，不在此被视为自动适用于 GLB。
+
+移除像素、排除文件及保留说明均为技术处理，不构成法律有效性或全部权利已解决的保证。使用者仍需核实具体用途。任何风险提示均不排除或限制法律不允许排除或限制的责任。
+
+These are independently generated, approximate exterior learning models, not official Apple CAD or assets. No affiliation with or endorsement by Apple is claimed. Product names, trademarks, logos, product appearance, and other third-party rights remain with their respective rights holders. MODEL-TERMS.txt permits personal learning and non-commercial practice only for independently created portions the publisher is legally entitled to license. It grants no Apple or other third-party rights and no commercial-use permission.
+
+Embedded Apple interface/wallpaper images were removed from the actual binary data of 134 GLBs in this collection, and the affected screen materials were replaced with neutral surfaces. Downloaded reference photos, original Apple media, BLEND scenes, original previews, generator scripts, and font binaries are not supplied. Existing geometry, lettering meshes, and logo geometry may remain. Omitting logos or converting text to mesh does not resolve every rights issue.
+
+Some lettering meshes were generated using fonts such as DejaVu or Liberation. Corresponding source-font notices are included where those names were found in the source generator. They record font provenance only; they neither replace the model terms nor establish permission for the model as a whole. The branded 2001 iPod variant is held because the basis for GLB redistribution of its Nimbus-derived outlines has not been established; its existing logo-omitted variant is included. A source-font exception referring to PostScript/PDF is not treated here as automatically applying to GLB.
+
+Pixel removal, file exclusions, and preservation of notices are technical measures, not guarantees of legal effectiveness or complete rights clearance. Check your particular use. No risk notice excludes or limits liability that cannot lawfully be excluded or limited.
