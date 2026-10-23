@@ -1,0 +1,21 @@
+# Generated production assets and local state do not belong in the Skill repo.
+__pycache__/
+*.pyc
+.DS_Store
+*.blend
+*.blend1
+*.glb
+*.gltf
+*.mov
+*.mp4
+*.wav
+*.mp3
+*.png
+*.jpg
+*.jpeg
+*.exr
+.env
+.env.*
+renders/
+outputs/
+private-reference/
